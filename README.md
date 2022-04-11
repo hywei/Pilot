@@ -55,6 +55,7 @@ Then run 'cmake' from the project's root directory, to generate a project of Xco
 ```
 cmake -S engine/ -B build -G "Xcode"
 ```
+
 and you can build the project with 
 ```
 cmake --build build --config Release
@@ -63,3 +64,9 @@ cmake --build build --config Release
 ### Build on Ubuntu 20.04 
 You can execute the **build_linux.sh** to build the binaries.  
   
+## Contributors
+
+<a href="https://github.com/BoomingTech/Pilot/graphs/contributors"><img src="https://contrib.rocks/image?repo=BoomingTech/Pilot" width="800px"></a>
+
+*Contributor avatars are randomly shuffled.*
+
